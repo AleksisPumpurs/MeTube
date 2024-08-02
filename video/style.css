@@ -1,0 +1,12 @@
+.chanalname {
+    display: flex;
+}
+
+.contentChannel {
+    margin-left: 20px;
+}
+
+.amage {
+    min-width: 50px;
+    min-height: 50px;
+}
